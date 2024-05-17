@@ -1,0 +1,16 @@
+C:\Users\masia\TAREA\SistemaVentas\capaPresentacionWindows\bin\Debug\capaPresentacionWindows.exe.config
+C:\Users\masia\TAREA\SistemaVentas\capaPresentacionWindows\bin\Debug\capaPresentacionWindows.exe
+C:\Users\masia\TAREA\SistemaVentas\capaPresentacionWindows\bin\Debug\capaPresentacionWindows.pdb
+C:\Users\masia\TAREA\SistemaVentas\capaPresentacionWindows\obj\Debug\capaPresentacionWindows.csproj.AssemblyReference.cache
+C:\Users\masia\TAREA\SistemaVentas\capaPresentacionWindows\obj\Debug\capaPresentacionWindows.Properties.Resources.resources
+C:\Users\masia\TAREA\SistemaVentas\capaPresentacionWindows\obj\Debug\capaPresentacionWindows.csproj.GenerateResource.cache
+C:\Users\masia\TAREA\SistemaVentas\capaPresentacionWindows\obj\Debug\capaPresentacionWindows.csproj.CoreCompileInputs.cache
+C:\Users\masia\TAREA\SistemaVentas\capaPresentacionWindows\obj\Debug\capaPresentacionWindows.exe
+C:\Users\masia\TAREA\SistemaVentas\capaPresentacionWindows\obj\Debug\capaPresentacionWindows.pdb
+C:\Users\masia\TAREA\SistemaVentas\capaPresentacionWindows\bin\Debug\capaEntidad.dll
+C:\Users\masia\TAREA\SistemaVentas\capaPresentacionWindows\bin\Debug\capaNegocio.dll
+C:\Users\masia\TAREA\SistemaVentas\capaPresentacionWindows\bin\Debug\capaEntidad.pdb
+C:\Users\masia\TAREA\SistemaVentas\capaPresentacionWindows\bin\Debug\capaNegocio.pdb
+C:\Users\masia\TAREA\SistemaVentas\capaPresentacionWindows\obj\Debug\capaPresentacionWindows.frmPrincipal.resources
+C:\Users\masia\TAREA\SistemaVentas\capaPresentacionWindows\obj\Debug\capaPres.62E07672.Up2Date
+C:\Users\masia\TAREA\SistemaVentas\capaPresentacionWindows\obj\Debug\capaPresentacionWindows.Mantenimiento.frmCliente.resources

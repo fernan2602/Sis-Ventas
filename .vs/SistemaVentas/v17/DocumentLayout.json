@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\masia\\TAREA\\SistemaVentas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB06D400-7480-4299-9C0F-072006DEE071}|capaPressentacionWeb\\capaPressentacionWeb.csproj|c:\\users\\masia\\tarea\\sistemaventas\\capapressentacionweb\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CB06D400-7480-4299-9C0F-072006DEE071}|capaPressentacionWeb\\capaPressentacionWeb.csproj|solutionrelative:capapressentacionweb\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB06D400-7480-4299-9C0F-072006DEE071}|capaPressentacionWeb\\capaPressentacionWeb.csproj|c:\\users\\masia\\tarea\\sistemaventas\\capapressentacionweb\\wfcliente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB06D400-7480-4299-9C0F-072006DEE071}|capaPressentacionWeb\\capaPressentacionWeb.csproj|solutionrelative:capapressentacionweb\\wfcliente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1997D5D-AF15-476D-BDF6-65C478E0D925}|capaPresentacionWindows\\capaPresentacionWindows.csproj|c:\\users\\masia\\tarea\\sistemaventas\\capapresentacionwindows\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A1997D5D-AF15-476D-BDF6-65C478E0D925}|capaPresentacionWindows\\capaPresentacionWindows.csproj|solutionrelative:capapresentacionwindows\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1997D5D-AF15-476D-BDF6-65C478E0D925}|capaPresentacionWindows\\capaPresentacionWindows.csproj|c:\\users\\masia\\tarea\\sistemaventas\\capapresentacionwindows\\mantenimiento\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1997D5D-AF15-476D-BDF6-65C478E0D925}|capaPresentacionWindows\\capaPresentacionWindows.csproj|solutionrelative:capapresentacionwindows\\mantenimiento\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6066CCB4-3872-499E-B70C-72C95C7A756B}|capaNegocio\\capaNegocio.csproj|c:\\users\\masia\\tarea\\sistemaventas\\capanegocio\\clientebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6066CCB4-3872-499E-B70C-72C95C7A756B}|capaNegocio\\capaNegocio.csproj|solutionrelative:capanegocio\\clientebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6066CCB4-3872-499E-B70C-72C95C7A756B}|capaNegocio\\capaNegocio.csproj|c:\\users\\masia\\tarea\\sistemaventas\\capanegocio\\interface\\icliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6066CCB4-3872-499E-B70C-72C95C7A756B}|capaNegocio\\capaNegocio.csproj|solutionrelative:capanegocio\\interface\\icliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1997D5D-AF15-476D-BDF6-65C478E0D925}|capaPresentacionWindows\\capaPresentacionWindows.csproj|c:\\users\\masia\\tarea\\sistemaventas\\capapresentacionwindows\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1997D5D-AF15-476D-BDF6-65C478E0D925}|capaPresentacionWindows\\capaPresentacionWindows.csproj|solutionrelative:capapresentacionwindows\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1997D5D-AF15-476D-BDF6-65C478E0D925}|capaPresentacionWindows\\capaPresentacionWindows.csproj|c:\\users\\masia\\tarea\\sistemaventas\\capapresentacionwindows\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1997D5D-AF15-476D-BDF6-65C478E0D925}|capaPresentacionWindows\\capaPresentacionWindows.csproj|solutionrelative:capapresentacionwindows\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1997D5D-AF15-476D-BDF6-65C478E0D925}|capaPresentacionWindows\\capaPresentacionWindows.csproj|c:\\users\\masia\\tarea\\sistemaventas\\capapresentacionwindows\\mantenimiento\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1997D5D-AF15-476D-BDF6-65C478E0D925}|capaPresentacionWindows\\capaPresentacionWindows.csproj|solutionrelative:capapresentacionwindows\\mantenimiento\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA700DA2-EAB2-48DB-B4B9-6B412DEBFE75}|capaEntidad\\capaEntidad.csproj|c:\\users\\masia\\tarea\\sistemaventas\\capaentidad\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA700DA2-EAB2-48DB-B4B9-6B412DEBFE75}|capaEntidad\\capaEntidad.csproj|solutionrelative:capaentidad\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "wfCliente.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\masia\\TAREA\\SistemaVentas\\capaPressentacionWeb\\wfCliente.aspx.cs",
+              "RelativeDocumentMoniker": "capaPressentacionWeb\\wfCliente.aspx.cs",
+              "ToolTip": "C:\\Users\\masia\\TAREA\\SistemaVentas\\capaPressentacionWeb\\wfCliente.aspx.cs",
+              "RelativeToolTip": "capaPressentacionWeb\\wfCliente.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:52:09.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\masia\\TAREA\\SistemaVentas\\capaPressentacionWeb\\Web.config",
+              "RelativeDocumentMoniker": "capaPressentacionWeb\\Web.config",
+              "ToolTip": "C:\\Users\\masia\\TAREA\\SistemaVentas\\capaPressentacionWeb\\Web.config",
+              "RelativeToolTip": "capaPressentacionWeb\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-16T21:45:33.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCliente.cs",
+              "DocumentMoniker": "C:\\Users\\masia\\TAREA\\SistemaVentas\\capaPresentacionWindows\\Mantenimiento\\frmCliente.cs",
+              "RelativeDocumentMoniker": "capaPresentacionWindows\\Mantenimiento\\frmCliente.cs",
+              "ToolTip": "C:\\Users\\masia\\TAREA\\SistemaVentas\\capaPresentacionWindows\\Mantenimiento\\frmCliente.cs",
+              "RelativeToolTip": "capaPresentacionWindows\\Mantenimiento\\frmCliente.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:20:35.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\masia\\TAREA\\SistemaVentas\\capaPresentacionWindows\\Mantenimiento\\frmCliente.cs",
+              "RelativeDocumentMoniker": "capaPresentacionWindows\\Mantenimiento\\frmCliente.cs",
+              "ToolTip": "C:\\Users\\masia\\TAREA\\SistemaVentas\\capaPresentacionWindows\\Mantenimiento\\frmCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "capaPresentacionWindows\\Mantenimiento\\frmCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:14:05.34Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\masia\\TAREA\\SistemaVentas\\capaPresentacionWindows\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "capaPresentacionWindows\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\masia\\TAREA\\SistemaVentas\\capaPresentacionWindows\\frmPrincipal.cs",
+              "RelativeToolTip": "capaPresentacionWindows\\frmPrincipal.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:11:20.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clienteBL.cs",
+              "DocumentMoniker": "C:\\Users\\masia\\TAREA\\SistemaVentas\\capaNegocio\\clienteBL.cs",
+              "RelativeDocumentMoniker": "capaNegocio\\clienteBL.cs",
+              "ToolTip": "C:\\Users\\masia\\TAREA\\SistemaVentas\\capaNegocio\\clienteBL.cs",
+              "RelativeToolTip": "capaNegocio\\clienteBL.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwBsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:47:24.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\masia\\TAREA\\SistemaVentas\\capaPresentacionWindows\\App.config",
+              "RelativeDocumentMoniker": "capaPresentacionWindows\\App.config",
+              "ToolTip": "C:\\Users\\masia\\TAREA\\SistemaVentas\\capaPresentacionWindows\\App.config",
+              "RelativeToolTip": "capaPresentacionWindows\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-16T20:43:00.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICliente.cs",
+              "DocumentMoniker": "C:\\Users\\masia\\TAREA\\SistemaVentas\\capaNegocio\\Interface\\ICliente.cs",
+              "RelativeDocumentMoniker": "capaNegocio\\Interface\\ICliente.cs",
+              "ToolTip": "C:\\Users\\masia\\TAREA\\SistemaVentas\\capaNegocio\\Interface\\ICliente.cs",
+              "RelativeToolTip": "capaNegocio\\Interface\\ICliente.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:25:31.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\masia\\TAREA\\SistemaVentas\\capaPresentacionWindows\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "capaPresentacionWindows\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\masia\\TAREA\\SistemaVentas\\capaPresentacionWindows\\frmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "capaPresentacionWindows\\frmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:01:11.939Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "cliente.cs",
+              "DocumentMoniker": "C:\\Users\\masia\\TAREA\\SistemaVentas\\capaEntidad\\cliente.cs",
+              "RelativeDocumentMoniker": "capaEntidad\\cliente.cs",
+              "ToolTip": "C:\\Users\\masia\\TAREA\\SistemaVentas\\capaEntidad\\cliente.cs",
+              "RelativeToolTip": "capaEntidad\\cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:13:49.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

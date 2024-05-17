@@ -1,0 +1,9 @@
+C:\Users\masia\TAREA\SistemaVentas\capaNegocio\obj\Debug\capaNegocio.csproj.AssemblyReference.cache
+C:\Users\masia\TAREA\SistemaVentas\capaNegocio\obj\Debug\capaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\masia\TAREA\SistemaVentas\capaNegocio\bin\Debug\capaNegocio.dll
+C:\Users\masia\TAREA\SistemaVentas\capaNegocio\bin\Debug\capaNegocio.pdb
+C:\Users\masia\TAREA\SistemaVentas\capaNegocio\bin\Debug\capaEntidad.dll
+C:\Users\masia\TAREA\SistemaVentas\capaNegocio\bin\Debug\capaEntidad.pdb
+C:\Users\masia\TAREA\SistemaVentas\capaNegocio\obj\Debug\capaNego.836DF9B9.Up2Date
+C:\Users\masia\TAREA\SistemaVentas\capaNegocio\obj\Debug\capaNegocio.dll
+C:\Users\masia\TAREA\SistemaVentas\capaNegocio\obj\Debug\capaNegocio.pdb
